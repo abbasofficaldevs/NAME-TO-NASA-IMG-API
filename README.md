@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d91,100:fc4c02&height=200&section=header&text=Satellite%20Name%20Generator&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Your%20Name%20as%20Seen%20From%20Space&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d91,100:fc4c02&height=200&section=header&text=NAME%20TO%20NASA%20SATELLITE%20PIC%20GENERATOR&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Your%20Name%20as%20Seen%20From%20Space&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <br>
 
@@ -13,7 +13,7 @@
 ![Status](https://img.shields.io/badge/API-Online%20%E2%9C%85-00C853?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-FF6F00?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Version-v1.0-0B3D91?style=for-the-badge)
-![Dev](https://img.shields.io/badge/Dev-%40bizft-fc4c02?style=for-the-badge)
+![Dev](https://img.shields.io/badge/Dev-%40abkidz-fc4c02?style=for-the-badge)
 
 <br>
 
@@ -29,7 +29,7 @@
 
 </div>
 
-**Satellite Name Generator** is a lightweight Flask API that turns any name into a realistic **satellite‑style image**.  
+**NAME TO NASA SATELLITE PIC GENERATOR** is a lightweight Flask API that turns any name into a realistic **satellite‑style image**.  
 It uses pre‑made aerial letter tiles (each letter looks like a terrain feature or farm field), randomly picks one of three variants per character, stitches them together, uploads the result to tmpfiles.org, and returns a direct image URL – **zero API key required.**
 
 Perfect for Telegram bots, Discord welcome images, profile banners, map‑style games, or any project that needs a custom satellite picture of a name.
